@@ -1,3 +1,8 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: North Country Escape
+theme: ["github.com/theNewDynamic/gohugo-theme-ananke"]
+enableEmoji: true
+
+params:
+  author: "Made with <3 by Middle+Summer Rentals"
